@@ -22,4 +22,3 @@ A 2D top-down shooter game built with Unity. Defeat waves of enemies, power thro
 - Go to the builds folder
 - Download the ZIP file corresponding to your system
 - Unzip the file and run the contained application
-   git clone https://github.com/oabdullah3/Unity-2D-Shooter-Project.git
