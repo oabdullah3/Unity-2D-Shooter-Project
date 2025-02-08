@@ -5,7 +5,9 @@
 
 A 2D top-down shooter game built with Unity. Defeat waves of enemies, power through levels, and survive as long as you can!
 
-![Gameplay Screenshot](screenshots/gameplay.gif) <!-- Add a screenshot or GIF here -->
+ <!-- Add a screenshot or GIF here -->
+![image](https://github.com/user-attachments/assets/661dbb25-9302-4b61-b4ba-944290a19931)
+![image](https://github.com/user-attachments/assets/158cd666-472d-4aba-99e8-6ba1b40f9b5b)
 
 ---
 
